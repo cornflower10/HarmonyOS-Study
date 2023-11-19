@@ -32,8 +32,8 @@
 
 
 可以关注公众号“鸿蒙开发者”，有交流群,发送 “鸿蒙” 进群参与讨论。公众号会更新[《鸿蒙原生开发Chatgpt App系列》](https://mp.weixin.qq.com/s?__biz=MzkyNDUxNzgzNw==&mid=2247483746&idx=1&sn=c362f13745aabb77a6edeac3f17778b7&chksm=c1d5d5c0f6a25cd6fa6a60e8ac186efacf2496a76125494e5f6d0095920a7cdf818436c9fa80#rd)文章，技术思考，行业资讯等等.
-**预祝大家周一愉快**
 
 [gitee地址](https://gitee.com/cornflower10/harmony-os-study)
 
-[github地址](https://gitee.com/cornflower10/harmony-os-study)
+[github地址](https://github.com/cornflower10/HarmonyOS-Study/tree/main)
+
